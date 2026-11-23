@@ -1,3 +1,4 @@
+// Exactly one line, nothing else.
 // One line, under 160 characters.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
